@@ -4,34 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="125ca3b1-669e-42ed-982b-af3d95e2c0c2" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security.iws" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/SpringSecurityApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/SpringSecurityApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/WebSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/controller/AuthController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/dto/GenericDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/dto/GenericDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/dto/user/UserDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/dto/user/UserDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/exceptionHandler/ApiError.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/exceptionHandler/ApiError.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/exceptionHandler/CustomExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/exceptionHandler/CustomExceptionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/exceptionHandler/customException/EmailExistException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/exceptionHandler/customException/EmailExistException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/exceptionHandler/customException/EmailNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/exceptionHandler/customException/EmailNotFoundException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/exceptionHandler/customException/UsernameExistException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/exceptionHandler/customException/UsernameExistException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/exceptionHandler/customException/UsernameNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/exceptionHandler/customException/UsernameNotFoundException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/model/CustomUserDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/model/CustomUserDetails.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/model/GenericModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/model/GenericModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/model/UserListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/model/UserListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/repository/UserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/security/jwtToken/JwtFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/security/jwtToken/JwtFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/security/jwtToken/JwtUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/security/jwtToken/JwtUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/service/AuthUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/service/AuthUserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/service/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/service/mapper/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/project/service/mapper/UserMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/com/project/service/mapper/UserMapperImpl.java" afterDir="false" />
+    <list default="true" id="125ca3b1-669e-42ed-982b-af3d95e2c0c2" name="Changes" comment="Update README.md">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/controller/AuthController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -339,6 +313,14 @@
     <option name="AUTO_DEL_FILES" value="0" />
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Update README.md">
+      <created>1659284523878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659284523878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -386,6 +368,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
